@@ -1,3 +1,4 @@
 {
-    "external_agents": true
+  "enabled": true,
+  "external_agents": true
 }
